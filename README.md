@@ -30,7 +30,7 @@ The analysis focuses on four core operational pillars:
 ---
 
 ### 2. Premium Installment Marketing & Margin Protection
-* **Strategic Finding:** A prominent volume spike at **10 installments** reveals strong consumer demand for financing. However, offering multi-month interest-free financing on low-value items eats directly into profit margins due to high interchange fees.
+* **Strategic Finding:** A prominent volume spike at **8 to 10 installments** reveals strong consumer demand for financing. However, offering multi-month interest-free financing on low-value items eats directly into profit margins due to high interchange fees.
 * **Actionable Solution:** **Tiered Installment Display & Framing Strategy**  
   Restrict multi-month financing (e.g., 8–10 installments) strictly to high-ticket items (e.g., orders above R$ 200). On product pages for premium goods, reframe the UI/UX from the total price to an accessible monthly cost (*"Own it for just R$ 20/month"*), reducing upfront price friction and unlocking latent demand.
 
@@ -69,6 +69,6 @@ The analysis focuses on four core operational pillars:
 ## How to Reproduce Analysis
 1. Clone repository:
    ```bash
-   git clone [https://github.com/ariana-zylf/brazilian-ecommerce-case-study.git](https://github.com/ariana-zylf/brazilian-ecommerce-case-study.git)
+   git clone https://github.com/ariana-zylf/brazilian-ecommerce-case-study.git
     
 
